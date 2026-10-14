@@ -1,4 +1,4 @@
-# my-site
+# my-suzuki
 
 Git・Github基礎の練習で作った、自己紹介のサイトです。
 
